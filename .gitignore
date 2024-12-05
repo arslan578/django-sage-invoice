@@ -170,3 +170,6 @@ media/
 # Ignore all migrations files except __init__.py
 bandit_report.txt
 invoices/
+temp_auto_push.bat
+temp_interactive_push.bat
+branch_structure.json
